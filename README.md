@@ -26,7 +26,7 @@ I am a 2nd-year student in the Computer Engineering Department at Hacettepe Univ
 
 ## 🌐Contact
 <p align="center">
-  <a href="[https://www.linkedin.com/in/xrams](https://www.linkedin.com/in/mustafaemirtezcan)" target="_blank">
+  <a href="https://www.linkedin.com/in/mustafaemirtezcan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:mustafaemrtezcan@gmail.com" target="_blank">

@@ -9,11 +9,11 @@
 
 ## 👨‍💻 About Me
 
-I am a 2nd-year student in the Computer Engineering Department at Hacettepe University. I am interested in Artificial Intelligence and software development. I enjoy learning, improving myself, and working on projects with a team spirit.
+I am a 2nd-year student in the Computer Engineering Department at Hacettepe University(Current GPA: 3.1). I am interested in Artificial Intelligence and software development. I have been taking some courses and working in this field since high school. I enjoy learning, improving myself, and working on projects with a team spirit.
 
 
 
-## 💪🤖 Programming Skills🌐
+## 💪🤖 Programming Skills🔣
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
@@ -23,6 +23,22 @@ I am a 2nd-year student in the Computer Engineering Department at Hacettepe Univ
   <img src="https://img.shields.io/badge/Arduino-%23A6C400.svg?style=for-the-badge&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
+
+## 💼 Experiences
+
+- **Member, R&D Team - Hacettepe AI Club 2024 - Present**
+- **IEEE Hacettepe Antlers Teknofest Project Team 2024 - Present**
+
+
+## 🔣 Projects
+
+**Projects in different areas for BBM Lab courses:**
+
+- **Python** 🐍: [Link to Python projects](URL)
+- **C++** 💻: [Link to C++ projects](URL)
+- **Java** ☕: [Link to Java projects](URL)
+- **Verilog** 🖧: [Link to Verilog projects](URL)
+
 
 ## 🌐Contact
 <p align="center">

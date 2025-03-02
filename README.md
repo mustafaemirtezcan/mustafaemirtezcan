@@ -34,9 +34,9 @@ I am a 2nd-year student in the Computer Engineering Department at Hacettepe Univ
 
 **Projects in different areas for BBM Lab courses:**
 
-- **Python** 🐍: [Link to Python projects](URL)
+- **Python** 🐍: [Link to Python projects](https://github.com/mustafaemirtezcan/BBM103)
 - **C++** 💻: [Link to C++ projects](URL)
-- **Java** ☕: [Link to Java projects](URL)
+- **Java** ☕: [Link to Java projects](https://github.com/mustafaemirtezcan/BBM104)
 - **Verilog** 🖧: [Link to Verilog projects](URL)
 
 

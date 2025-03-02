@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-I am a 2nd-year student in the Computer Engineering Department at Hacettepe University(Current GPA: 3.1). I am interested in Artificial Intelligence and software development. I have been taking some courses and working in this field since high school. I enjoy learning, improving myself, and working on projects with a team spirit.
+I am a 2nd-year student in the Computer Engineering Department at Hacettepe University (Current GPA: 3.1). I am interested in Artificial Intelligence and software development. I have been taking some courses and working in this field since high school. I enjoy learning, improving myself, and working on projects with a team spirit.
 
 
 

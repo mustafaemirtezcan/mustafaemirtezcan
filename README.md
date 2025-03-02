@@ -22,12 +22,13 @@ I am a 2nd-year student in the Computer Engineering Department at Hacettepe Univ
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arduino-%23A6C400.svg?style=for-the-badge&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Verilog-%23CB3837.svg?style=for-the-badge&logo=verilog&logoColor=white"/>
 </p>
 
 ## 💼 Experiences
 
 - **Member, R&D Team - Hacettepe AI Club 2024 - Present**
-- **IEEE Hacettepe Antlers Teknofest Project Team 2024 - Present**
+- **Hacettepe Antlers Teknofest International Unmanned Aerial Vehicle (UAV) Competition Team 2024 - Present**
 
 
 ## 🔣 Projects

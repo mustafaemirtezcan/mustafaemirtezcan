@@ -29,7 +29,7 @@ I am a 2nd-year student in the Computer Engineering Department at Hacettepe Univ
 
 - **Member, R&D Team - Hacettepe AI Club 2024 - Present**
 - **Member, Hacettepe Antlers Teknofest International Unmanned Aerial Vehicle (UAV) Competition Team 2024 - Present**
-- **Student, DENEYAP Technology Workshops 2020 - 2023 : [Link of certificates](https://drdogrulama.sanayi.gov.tr/tr/profile/mustafaemirtezcan966454)**
+- **Student, DENEYAP Technology Workshops 2020 - 2023 : [Link of certificates](https://drdogrulama.sanayi.gov.tr/tr/profile/mustafaemirtezcan966454)(https://drdogrulama.sanayi.gov.tr/tr/profile/mustafaemirtezcan966454)**
 
 
 ## 🔣 Projects

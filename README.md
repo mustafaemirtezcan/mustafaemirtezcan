@@ -23,6 +23,9 @@ I am a 2nd-year student in the Computer Engineering Department at Hacettepe Univ
   <img src="https://img.shields.io/badge/Arduino-%23A6C400.svg?style=for-the-badge&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Verilog-%23CB3837.svg?style=for-the-badge&logo=verilog&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
 </p>
 
 ## 💼 Experiences
@@ -40,6 +43,7 @@ I am a 2nd-year student in the Computer Engineering Department at Hacettepe Univ
 - **C++** 💻: [Link to C++ projects](https://github.com/mustafaemirtezcan/BBM203)
 - **Java** ☕: [Link to Java projects](https://github.com/mustafaemirtezcan/BBM104)
 - **Verilog** 🖧: [Link to Verilog projects](https://github.com/mustafaemirtezcan/BBM233-VERILOG)
+- **JavaScript ⚡** : [Link to Verilog projects](https://github.com/mustafaemirtezcan/PersonalizedNewsWebApp)
 
 
 ## 🌐Contact

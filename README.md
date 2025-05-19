@@ -43,7 +43,7 @@ I am a 2nd-year student in the Computer Engineering Department at Hacettepe Univ
 - **C++** 💻: [Link to C++ projects](https://github.com/mustafaemirtezcan/BBM203)
 - **Java** ☕: [Link to Java projects](https://github.com/mustafaemirtezcan/BBM104)
 - **Verilog** 🖧: [Link to Verilog projects](https://github.com/mustafaemirtezcan/BBM233-VERILOG)
-- **JavaScript ⚡** : [Link to Verilog projects](https://github.com/mustafaemirtezcan/PersonalizedNewsWebApp)
+- **JavaScript ⚡** : [Link to JavaScript projects](https://github.com/mustafaemirtezcan/PersonalizedNewsWebApp)
 
 
 ## 🌐Contact

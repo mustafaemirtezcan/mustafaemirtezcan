@@ -27,11 +27,11 @@ I am a 3nd-year student in the Computer Engineering Department at Hacettepe Univ
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
-  <img 🤖 ROS"/>
 </p>
 
 ## 💼 Experiences
-- **Software Developer Intern, Turkcell Technology 2025 - Present**
+- **Software Developer Intern, Intertech Technology August 2025 - Present**
+- **Software Developer Intern, Turkcell Technology July 2025 - August 2025**
 - **Member, R&D Team - Hacettepe AI Club 2024 - Present**
 - **Member, Hacettepe Antlers Teknofest International Unmanned Aerial Vehicle (UAV) Competition Team 2024 - 2025**
 - **Student, DENEYAP Technology Workshops 2020 - 2023 Link of certificates: https://drdogrulama.sanayi.gov.tr/tr/profile/mustafaemirtezcan966454**

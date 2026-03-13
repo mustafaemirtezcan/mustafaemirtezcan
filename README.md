@@ -20,7 +20,6 @@ I am a 3nd-year student in the Computer Engineering Department at Hacettepe Univ
   <img src="https://img.shields.io/badge/Java-%23F7A800.svg?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Verilog-%23CB3837.svg?style=for-the-badge&logo=verilog&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>

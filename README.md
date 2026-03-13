@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-I am a 3nd-year student in the Computer Engineering Department at Hacettepe University ( Current GPA: 3.12 ) . I am interested in Artificial Intelligence and software development. I have been taking some courses and working in this field since high school. I enjoy learning, improving myself, and working on projects with a team spirit.
+I am a 3nd-year student in the Computer Engineering Department at Hacettepe University ( Current GPA: 3.26 ) . I am interested in software development and artificial intelligence. I have been taking some courses and working in this field since high school. I enjoy learning, improving myself, and working on projects with a team spirit.
 
 
 
@@ -21,30 +21,19 @@ I am a 3nd-year student in the Computer Engineering Department at Hacettepe Univ
   <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arduino-%23A6C400.svg?style=for-the-badge&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Verilog-%23CB3837.svg?style=for-the-badge&logo=verilog&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
 </p>
 
 ## 💼 Experiences
 - **Software Developer Intern, Intertech Technology August 2025 - September 2025**
 - **Software Developer Intern, Turkcell Technology July 2025 - August 2025**
+- **Software Team Member, IEEE Hacettepe Space Troopers Rover Team - Present**
+- **Software Team Member, Hacettepe Antlers Teknofest International Unmanned Aerial Vehicle (UAV) Competition Team 2024 - 2025**
 - **Member, R&D Team - Hacettepe AI Club 2024 - Present**
-- **Member, Hacettepe Antlers Teknofest International Unmanned Aerial Vehicle (UAV) Competition Team 2024 - 2025**
 - **Student, DENEYAP Technology Workshops 2020 - 2023**
-
-
-## 🔣 Projects
-
-**Projects in different areas for BBM Lab courses:**
-
-- **Python** 🐍: [Link to Python projects](https://github.com/mustafaemirtezcan/BBM103)
-- **C++** 💻: [Link to C++ projects](https://github.com/mustafaemirtezcan/BBM203)
-- **Java** ☕: [Link to Java projects](https://github.com/mustafaemirtezcan/BBM104)
-- **Verilog** 🖧: [Link to Verilog projects](https://github.com/mustafaemirtezcan/BBM233-VERILOG)
 
 
 ## 🌐Contact

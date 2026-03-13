@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-I am a 3nd-year student in the Computer Engineering Department at Hacettepe University ( Current GPA: 3.26 ) . I am interested in software development and artificial intelligence. I have been taking some courses and working in this field since high school. I enjoy learning, improving myself, and working on projects with a team spirit.
+I am a 3rd-year student in the Computer Engineering Department at Hacettepe University ( Current GPA: 3.26 ) . I am interested in software development and artificial intelligence. I have been taking some courses and working in this field since high school. I enjoy learning, improving myself, and working on projects with a team spirit.
 
 
 
@@ -37,7 +37,7 @@ I am a 3nd-year student in the Computer Engineering Department at Hacettepe Univ
 - **Software Developer Intern, Turkcell Technology July 2025 - August 2025**
 - **Software Team Member, IEEE Hacettepe Space Troopers Rover Team - Present**
 - **Software Team Member, Hacettepe Antlers Teknofest International Unmanned Aerial Vehicle (UAV) Competition Team 2024 - 2025**
-- **Member, R&D Team - Hacettepe AI Club 2024 - Present**
+- **Member, R&D Team - Hacettepe AI Club 2024 - 2025**
 - **Student, DENEYAP Technology Workshops 2020 - 2023**
 
 

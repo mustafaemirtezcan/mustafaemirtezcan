@@ -49,7 +49,7 @@ I am a 4th-year student in the Computer Engineering Department at Hacettepe Univ
 
 
 ## 🏆 Achievements & Certificates
-- **3rd Place, NEOVA Ideathon**
+- **3rd Place, NEOVA Ideathon 2026**
 - **NASA Space Apps Challenge, Galactic Problem Solver Certificate**
 - **Teknofest International UAV Competition, IEEE Hacettepe UAV Team**
 - **TÜBİTAK 2204-A Research Projects Competition, Mathematics - STEAM Theme**

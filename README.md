@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Computer%20Engineering%20Student-%2300599C.svg?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hacettepe%20University-%23A6192E.svg?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Software%20Engineer%20%40%20Turkcell-%23FFC20E.svg?style=for-the-badge&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Part%20Time%20Software%20Engineer%20%40%20Turkcell-%23FFC20E.svg?style=for-the-badge&logoColor=black"/>
 </p>
 
 

@@ -39,9 +39,9 @@ I am a 4th-year student in the Computer Engineering Department at Hacettepe Univ
 
 ## 💼 Experiences
 - **Part-Time Software Engineer, Turkcell Technology August 2026 - Present**
-- **AI Engineering Intern, Baykar Technology June 2026 - August 2026**
-- **Software Developer Intern, Intertech Technology August 2025 - September 2025**
-- **Software Developer Intern, Turkcell Technology July 2025 - August 2025**
+- **AI Engineer Intern, Baykar Technology June 2026 - August 2026**
+- **AI Engineer Intern, Intertech Technology August 2025 - September 2025**
+- **Software Engineer Intern, Turkcell Technology July 2025 - August 2025**
 - **Software Team Member, IEEE Hacettepe Space Troopers Rover Team 2025 - Present**
 - **Software Team Member, Hacettepe Antlers Teknofest International Unmanned Aerial Vehicle (UAV) Competition Team 2024 - 2025**
 - **Member, R&D Team - Hacettepe AI Club 2024 - Present**

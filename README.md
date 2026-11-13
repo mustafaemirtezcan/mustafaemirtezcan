@@ -1,76 +1,45 @@
-## 👋 Hi! I'm Mustafa Emir
+# Mustafa Emir Tezcan
 
+Fourth-year Computer Engineering student at Hacettepe University and Part-Time Software Engineer at Turkcell Technology. I work on backend systems with Java and Spring, and on applied AI and computer vision.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Computer%20Engineering%20Student-%2300599C.svg?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hacettepe%20University-%23A6192E.svg?style=for-the-badge&logoColor=white"/>
-</p>
+## Experience
 
+- **Turkcell Technology**, Part-Time Software Engineer (Aug 2026 - Present): Backend microservices for enterprise billing solutions.
+- **Baykar Technology**, AI Engineering Intern (Jun 2026 - Aug 2026): AI models for aviation and defense systems.
+- **Intertech (DenizBank)**, Software Engineering Intern (Aug 2025 - Sep 2025): Mobile banking chatbot with MCP integration.
+- **Turkcell Technology**, Software Engineering Intern (Jul 2025 - Aug 2025): Enterprise web application with Spring Boot and Docker.
 
-## 👨‍💻 About Me
+## Education
 
-I am a 3rd-year student in the Computer Engineering Department at Hacettepe University ( Current GPA: 3.26 ) . I am interested in software development and artificial intelligence. I have been taking some courses and working in this field since high school. I enjoy learning, improving myself, and working on projects with a team spirit.
+- **Hacettepe University**, B.Sc. in Computer Engineering, 2023 - Present (GPA: 3.31)
 
+## Achievements
 
+- 3rd place, NEOVA Ideathon 2026
+- Ranked 2,948th among 3.5 million candidates in the National University Entrance Exam (YKS 2023)
+- Teknofest International UAV Competition, IEEE Hacettepe UAV Team (2025)
 
-## 💪🤖 Programming Skills
+## Teams
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-%23F7A800.svg?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Verilog-%23CB3837.svg?style=for-the-badge&logo=verilog&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ros2-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/YOLOv11-00FFFF?style=for-the-badge&logo=ultralytics&logoColor=black"/>
-  <img src="https://img.shields.io/badge/NVIDIA%20Isaac%20Sim-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-</p>
+- IEEE Hacettepe Space Troopers, ERC Mars Rover Software Team (2025 - Present)
+- Hacettepe AI Club, R&D Team (2024 - Present)
 
-## 💼 Experiences
-- **Software Developer Intern, Intertech Technology August 2025 - September 2025**
-- **Software Developer Intern, Turkcell Technology July 2025 - August 2025**
-- **Software Team Member, IEEE Hacettepe Space Troopers Rover Team - Present**
-- **Software Team Member, Hacettepe Antlers Teknofest International Unmanned Aerial Vehicle (UAV) Competition Team 2024 - 2025**
-- **Member, R&D Team - Hacettepe AI Club 2024 - 2025**
-- **Student, DENEYAP Technology Workshops 2020 - 2023**
+## Selected Projects
 
+- [DDColor-XAI](https://github.com/mustafaemirtezcan/DDColor-XAI): Explainability study of an image colorization model
+- [Computer-Vision](https://github.com/mustafaemirtezcan/Computer-Vision): Traffic sign detection and single-object tracking
+- [Machine-Learning](https://github.com/mustafaemirtezcan/Machine-Learning): Perceptron, SVM, CNN and LSTM implementations
+- [Parallel-Processing](https://github.com/mustafaemirtezcan/Parallel-Processing): MPI_Scatter simulation on fat-tree networks
+- [School-Information-System](https://github.com/mustafaemirtezcan/School-Information-System): Spring Boot REST API with JWT authentication
 
-## 🌐Contact
-<p align="center">
-  <a href="https://www.linkedin.com/in/mustafaemirtezcan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:mustafaemrtezcan@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/mustafaemirtezcan" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+## Skills
 
+- **Languages and Frameworks:** Java, Spring Boot, C++, Python, SQL, Verilog
+- **Databases:** PostgreSQL, Redis, H2
+- **AI and Computer Vision:** PyTorch, OpenCV, YOLOv11, Vision Transformers, MCP
+- **Robotics:** ROS2, Gazebo, ArduPilot
+- **Tools:** Docker, Jenkins, Git, GitLab, Maven, Swagger, Postman, SoapUI
 
+## Contact
 
-
-
-
-
-<!--
-**mustafaemirtezcan/mustafaemirtezcan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://www.linkedin.com/in/mustafaemirtezcan) | [Email](mailto:mustafaemrtezcan@gmail.com)

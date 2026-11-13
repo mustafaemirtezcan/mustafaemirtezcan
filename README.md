@@ -48,9 +48,14 @@ I am a 4th-year student in the Computer Engineering Department at Hacettepe Univ
 - **Student, DENEYAP Technology Workshops 2020 - 2023**
 
 
-## 🏆 Achievements
+## 🏆 Achievements & Certificates
 - **3rd Place, NEOVA Ideathon 2026**
 - **Ranked 2,948th among 3.5 million candidates in the National University Entrance Exam (YKS 2023)**
+- **Teknofest International UAV Competition, IEEE Hacettepe UAV Team (May 2025)**
+- **Savunma Sanayii 401 Certificate**
+- **TÜBİTAK 2204-A Research Projects Competition, Mathematics - STEAM Theme (Feb 2022)**
+- **NASA Space Apps Challenge, Galactic Problem Solver Certificate (Oct 2021)**
+- **PCAP: Certified Associate in Python Programming, Cisco Networking Academy (2021)**
 
 
 ## 🌐Contact

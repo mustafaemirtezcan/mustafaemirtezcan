@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-I am a 4th-year student in the Computer Engineering Department at Hacettepe University (Current GPA: 3.31) and a Part-Time Software Engineer at Turkcell Technology. I am interested in software development and artificial intelligence. I have been taking some courses and working in this field since high school. I enjoy learning, improving myself, and working on projects with a team spirit.
+I am a 4th-year student in the Computer Engineering Department at Hacettepe University (Current GPA: 3.31) and a Part-Time Software Engineer at Turkcell Technology. I entered university ranked 2,948th among 3.5 million candidates in the National University Entrance Exam (YKS), placing in the top 0.08%. I am interested in software development and artificial intelligence. I have been taking some courses and working in this field since high school. I enjoy learning, improving myself, and working on projects with a team spirit.
 
 
 
@@ -49,13 +49,12 @@ I am a 4th-year student in the Computer Engineering Department at Hacettepe Univ
 
 
 ## 🏆 Achievements & Certificates
-- **3rd Place, NEOVA Ideathon 2026**
-- **Ranked 2,948th among 3.5 million candidates in the National University Entrance Exam (YKS 2023)**
-- **Teknofest International UAV Competition, IEEE Hacettepe UAV Team (May 2025)**
+- **3rd Place, NEOVA Ideathon**
+- **NASA Space Apps Challenge, Galactic Problem Solver Certificate**
+- **Teknofest International UAV Competition, IEEE Hacettepe UAV Team**
+- **TÜBİTAK 2204-A Research Projects Competition, Mathematics - STEAM Theme**
 - **Savunma Sanayii 401 Certificate**
-- **TÜBİTAK 2204-A Research Projects Competition, Mathematics - STEAM Theme (Feb 2022)**
-- **NASA Space Apps Challenge, Galactic Problem Solver Certificate (Oct 2021)**
-- **PCAP: Certified Associate in Python Programming, Cisco Networking Academy (2021)**
+- **PCAP: Certified Associate in Python Programming, Cisco Networking Academy**
 
 
 ## 🌐Contact
